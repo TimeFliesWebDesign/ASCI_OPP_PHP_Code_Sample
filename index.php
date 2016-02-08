@@ -3825,6 +3825,7 @@ class DomainPage extends Webpage
         //For CSS visual error indication.
         $this->classes = $this->validator->getClasses();
         $this->classes['statusMsgPara'] = '';
+        $this->classes['outputDiv'] = '';
         $this->escaper->htmlEntitiesArray($this->classes);
         
         //For error messages.
