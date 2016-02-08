@@ -1,7 +1,6 @@
-# ASCI_OPP_PHP_Code_Sample
-Code Sample for The American Society of Clinical Investigation
-
-/***********************************************************
+#ASCI_OPP_PHP_Code_Sample
+#
+# ***********************************************************
  ***********************************************************
  *   Welcome to Anthony's E-mail Domain Lister!!!  Enjoy!  *
  ***********************************************************
@@ -9,7 +8,7 @@ Code Sample for The American Society of Clinical Investigation
  *********************************************************** 
                      "HA-DOO-KEN!"
  ***********************************************************
- 
+
          Date: 2/8/2016 @ 12:40 P.M.
 ===============================================================
     Candidate: Anthony E. Rutledge
@@ -27,8 +26,7 @@ Stackoverflow: http://stackoverflow.com/users/2495645/anthony-rutledge
      Charset: UTF-8 
       Format: Single File (PHP classes, PHP client code, HTML, and CSS)
 ===============================================================
-       Input: Strings (e-mail addresses and other) and white space (\r,\n,\t, 
-              spaces, etc...).
+       Input: Strings (e-mail addresses and other) and white space (\r,\n,\t, spaces, etc...).
       Source: HTML textarea, button, and hidden field (CSRF token).
       Output: An ordered and unique list of email domain names.
  Destination: HTML table, dynamically drawn.
@@ -131,5 +129,3 @@ Stackoverflow: http://stackoverflow.com/users/2495645/anthony-rutledge
 
  
 ===============================================================
-  
- */
